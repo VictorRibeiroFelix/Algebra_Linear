@@ -1,0 +1,3 @@
+C:/TI/C++/Aula/Brito/Vetores/cmake-build-debug/CMakeFiles/Vetores.dir
+C:/TI/C++/Aula/Brito/Vetores/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/TI/C++/Aula/Brito/Vetores/cmake-build-debug/CMakeFiles/rebuild_cache.dir
